@@ -25,6 +25,6 @@
   <a href="https://www.youtube.com/channel/UC6Fu8cV1nNGckUm3J2fVL8A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "augustovieiraoli@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gutovieira/gutovieira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
