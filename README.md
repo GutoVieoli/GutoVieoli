@@ -1,6 +1,6 @@
 ## Aopa! Eu sou o Augusto Vieira
 
--  ⚙  Atualmente curso Ciêncida da Computação
+-  ⚙  Atualmente curso Ciência da Computação
 -  🌱 Aprendendo PHP e banco de dados
 
  <div>
