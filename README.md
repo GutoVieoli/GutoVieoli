@@ -1,7 +1,7 @@
 ## Aopa! Eu sou o Augusto Vieira
 
--  ⚙  Atualmente curso Ciência da Computação na UNIFAL
--  🌱 Aprendendo CSS e JS
+-  ⚙  Curso o 5º período Ciência da Computação na UNIFAL
+-  🌱 Aprendendo de tudo um pouco
 
  <div>
   <a href="https://github.com/gutovieoli">
