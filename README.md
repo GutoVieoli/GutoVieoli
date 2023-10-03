@@ -1,6 +1,6 @@
 ## Aopa! Eu sou o Augusto Vieira
 
--  ⚙  Curso o 5º período Ciência da Computação na UNIFAL
+-  ⚙  Curso o 6º período Ciência da Computação na UNIFAL
 -  🌱 Aprendendo de tudo um pouco
 
  <div>
