@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=441d61&height=120&section=header"/>
+
 <div align="center">
 
  # Augusto Vieira de Oliveira
@@ -33,7 +35,7 @@
  ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=red)
  ![Command Line](https://img.shields.io/badge/-Cyber%20Security-black?style=flat-square&logo=windows-terminal&logoColor=green)
 
-## 📊 **My Stats:**
+## 📊 **Minhas Estatisticas:**
 <center>
   <table>
     <tr>
