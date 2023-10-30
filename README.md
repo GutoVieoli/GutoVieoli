@@ -13,13 +13,13 @@
 
 ## 🚀 **Linguagens e Ferramentas:**
 
- #### 💻 Uso diário:
+ ### 💻 Uso diário:
  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
  ![c++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=blue)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-squareflat-square&logo=visual-studio-code)
 
-  #### 📚 Tenho conhecimento:
+  ### 📚 Tenho conhecimento:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
@@ -27,7 +27,7 @@
  ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 
- #### 🌱 Estou aprendendo:
+ ### 🌱 Estou aprendendo:
 
  ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
  ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=red)
