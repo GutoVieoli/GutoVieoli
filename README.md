@@ -5,9 +5,11 @@
  # Augusto Vieira de Oliveira
  ## De tudo um pouco.
  
- Sou estudante do 6º período de **Ciência da Computação**.
+ Sou estudante do 7º período de **Ciência da Computação**.
    
  Aqui você encontra alguns dos meus projetos de estudo e brincadeiras.
+
+Atualmente estou também cursando uma bolsa ofertada pelo iFood em parceria com a Ada Tech, para o meu aprofundamento em backend
  
 </div>
 
